@@ -1,0 +1,2062 @@
+POST / HTTP/1.1
+Host: 192.168.0.58
+Content-Type: text/plain
+Connection: keep-alive
+Content-length: 128294
+
+<!DOCTYPE html >
+<html lan[E][WiFiClient.cpp:392] write(): fail on fd 61, errno: 104, "Connection reset by peer"
+g="pt-br" xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce">
+  <head><meta name="language" content="pt-BR" />
+<meta name="country" content="BRA" />
+<meta name="currency" content="R$" />
+<meta charset="UTF-8" /><meta name="theme-color" content="" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><link rel="preconnect" href="https://fonts.gstatic.com" /><title>Castelo Alimentos</title><script type="text/javascript" language="javascript">var jscheckoutUrl = 'https://www.casteloalimentos.com.br/checkout/#/cart';var jscheckoutAddUrl = 'https://www.casteloalimentos.com.br/checkout/cart/add';var jscheckoutGiftListId = '';var jsnomeSite = 't76496';var jsnomeLoja = 't76496';var jssalesChannel = 
+'1';var defaultStoreCurrency = 'R$';var localeInfo = {"CountryCode":"BRA","CultureCode":"pt-BR","CurrencyLocale":{"RegionDisplayName":"Brazil","RegionName":"BR","RegionNativeName":"Brasil","TwoLetterIsoRegionName":"BR","CurrencyEnglishName":"Real","CurrencyNativeName":"Real","CurrencySymbol":"R$","ISOCurrencySymbol":"BRL","Locale":1046,"Format":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","CurrencyGroupSeparator":".","CurrencyGroupSize":3,"StartsWithCurrencySymbol":true},"FlagUrl":"http://www.geonames.org/flags/x/br.gif"}};</script> 
+<script type="text/javascript" language="javascript">vtxctx = {"searchTerm":"","isOrder":"0","isCheck":"0","isCart":"0","actionType":"","actionValue":"","login":null,"url":"www.casteloalimentos.com.br","transurl":"www.casteloalimentos.com.br"};</script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/swfobject.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/vtex.ajax.wait.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/vtex.common.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://vtex.vtexassets.com/_v/public/assets/v1/npm/@vtex/render-extension-loader@0.1.6/lib/render-extension-loader.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/rc/rc.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/vtex.tagmanager.helper.js?v=1.5.47.2456" 
+  type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-ui/1.14.3/scripts/vtex-events-all.min.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-ui/1.14.3/scripts/vtex-analytics.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/front-i18n/0.7.2/vtex-i18n.min.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/front-utils/3.0.8/underscore-extensions.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/currency-format.min.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/dustjs-linkedin/2.3.5/dust-core-2.3.5.min.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/vtex.js/v2.13.0/vtex.min.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/jquery.ui.core.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/autocomplete/jquery.ui.widget.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/autocomplete/jquery.ui.position.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/autocomplete/jquery.ui.autocomplete.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/vtex.commerce.search.js?v=1.5.47.2456"   
+type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/vtex.viewpart.fulltextsearchbox.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/vtex-id-ui/3.24.2/vtexid-jquery.min.js?v=1.5.47.2456"   
+type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-template-as-modal.min.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-sku-selector-with-template.min.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/vtex.cookie.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/jquery.pager.js?v=1.5.47.2456"   type="text/javascript"></script>
+<link rel="stylesheet" href="//cdn.quatrodigital.com/casteloalimentos-arquivos/CSS.ctl.far.qd-bootstrap-common.css" type="text/css" /><link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;600;700" rel="stylesheet" /><link rel="stylesheet" href="//cdn.quatrodigital.com/casteloalimentos-arquivos/CSS.ctl.far.home.css" type="text/css" /><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script><script src="https://cdn.quatrodigital.com/casteloalimentos-arquivos/JS.ctl.far.functions.base.min.js" type="text/javascript"></script><script src="/arquivos/cadastro-newsletter.js?v=637707714986200000"></script><meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="description" content="Encontre os melhores vinagres para deixar seus pratos mais saborosos. Compre vinagres com a melhor qualidade e muito mais benefícios para sua saúde." />
+<meta name="Abstract" content="Castelo Alimentos" />
+<meta name="author" content="t76496" />
+<meta name="copyright" content="t76496" />
+<meta name="vtex-version" content="1.5.47.2456" />
+<meta http-equiv="pragma" content="no-cache" />
+<script language="javascript">var ___scriptPathTransac = '';</script><script language="javascript">var ___scriptPath = '';</script>
+<!-- Start - WebAnalyticsViewPart -->
+<script> var defaultUtmFromFolder = '';</script>
+<!-- CommerceContext.Current.VirtualFolder.Name: / -->
+
+<script>
+vtex.events.addData({"pageCategory":"Home","pageDepartment":null,"pageUrl":"http://www.casteloalimentos.com.br/","pageTitle":"Castelo Alimentos","skuStockOutFromShelf":[],"skuStockOutFromProductDetail":[],"shelfProductIds":["25","20","16","27","26","18","60","44","105","18","19","103","96","16","17","71"],"accountName":"t76496","pageFacets":[]});
+</script>
+
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                            })(window,document,'script','dataLayer','GTM-N6ZKG6W');
+</script>
+
+<script>
+var helper = new vtexTagManagerHelper('homeView'); helper.init();
+</script>
+
+<!-- End - WebAnalyticsViewPart -->
+<link rel="canonical" href="https://www.casteloalimentos.com.br/" /></head>
+  <body class="home"><div class="ajax-content-loader" rel="/no-cache/callcenter/disclaimer"></div><!-- Header --><header><div class="header-qd-v1"><!-- Barra Superior --><div class="header-qd-v1-top-bar"><div class="container"><div class="row"><div class="col-xs-12"><div class="topBarInfo">
+  <div class="topBarInfo">
+    <a href="/Institucional/politica-entrega">Frete Grátis SP para compras acima de R$ 300,00</a> | <a href="Institucional/politica-entrega">Consulte Condições*</a></div>
+</div></div></div></div></div><!-- Barra Superior --><div class="container"><div class="row"><!-- Brand --><div class="col-xs-12 col-lg-2"><div class="header-qd-v1-brand"><a class="header-qd-v1-brand-link" href="/"><img src="/arquivos/logo-casteloalimentos.png?v=637510693541970000" alt="Castelo Alimentos" /></a></div></div><!-- Brand --><!-- Search and attendance links --><div class="col-lg-6 visible-lg"><div class="header-qd-v1-search-wrap"><script type="text/javascript" language="javascript"> /*<![CDATA[*/ $(document).ready(function(){currentDept = '0'; enableFullTextSearchBox('ftBox775e3946bb4a45e9941e81399b49e875', 'ftDept775e3946bb4a45e9941e81399b49e875', 'ftIdx775e3946bb4a45e9941e81399b49e875', 'ftBtn775e3946bb4a45e9941e81399b49e875', '/SEARCHTERM','Digite Aqui' );}); /*]]>*/ </script><fieldset class="busca"><legend>Buscar</legend><label>Buscar</label><select id="ftDept775e3946bb4a45e9941e81399b49e875"><option value="">Todo o Site</option><option value="1">Vinagres</option><option value="11">Sumo de Limão</option><option value="12">Molhos</option><option value="13">Azeites e Óleo</option><option value="14">Temperos</option><option value="15">Conservas</option><option value="17">Patês Pimenta</option><option value="22">Acessórios</option><option value="35">Kits</option></select><input type="hidden" id=ftIdx775e3946bb4a45e9941e81399b49e875 value="" /><input id="ftBox775e3946bb4a45e9941e81399b49e875" class="fulltext-search-box" type="text" size="20" accesskey="b" /><input id="ftBtn775e3946bb4a45e9941e81399b49e875" type="button" value="Buscar" class="btn-buscar" /></fieldset></div></div><!-- Search and attendance links --><!-- User actions --><div class="col-lg-4"><div class="header-qd-v1-actions-wrapper"><div class="header-qd-v1-actions"><div class="header-qd-v1-user-action"><div class="header-qd-v1-user-action-login"><div class="header-qd-v1-user-message"><script>
+                                    $(document).ready(function () {
+                                        vtexid.setScope('eeeae167-eeae-479a-bbf1-dd4cb199a628');
+                                        vtexid.setScopeName('t76496');
+                                        $('body').on('click', '#login', function () {
+                                            vtexid.start(
+                                                    {
+                                                        returnUrl: '/',
+                                                        userEmail: '',
+                                                        locale: 'pt-BR',
+                                                        forceReload: false
+                                                    });
+                                        });
+                                    });
+                                   </script><div class="ajax-content-loader" rel="/no-cache/user/welcome"></div></div></div><ul class="header-qd-v1-user-action-links">
+  <ul>
+    <li>
+      <a href="/_secure/Account#/profile">Meus Dados</a>
+    </li>
+    <li>
+      <a href="/_secure/Account#/orders">Meus Pedidos</a>
+    </li>
+  </ul>
+</ul></div><!-- Cart link --><div class="header-qd-v1-cart"><a class="header-qd-v1-cart-link qd_cart_auto" href="/checkout"><i class="fa fa-shopping-cart"></i><span class="qd_cart_total"></span><span class="qd_cart_qtt">--</span></a></div><!-- Cart link --></div></div></div><!-- User actions --></div></div><!-- Amazing menu desktop --><div 
+class="header-qd-v1-amazing-menu-wrapper"><div class="container"><div class="row"><div class="col-xs-12"><div class="header-qd-v1-amazing-menu"><ul itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+        <li><a href="" itemprop="url" title="Todas as Categorias">Todas as Categorias</a>
+        <ul>
+                <li><strong>Tipos</strong>
+                <ul>
+                        <li><a href="/azeites-e-oleo" itemprop="url" title="Azeites e Óleo">Azeites e Óleo</a></li>
+                        <li><a href="/conservas" itemprop="url" title="Conservas">Conservas</a></li>
+                        <li><a href="/molhos" itemprop="url" title="Molhos">Molhos</a></li>
+                        <li><a href="/pates-pimenta" itemprop="url" title="Patês">Patês</a></li>
+                        <li><a href="/sumo-de-limao" itemprop="url" title="Sumo de Limão">Sumo de Limão</a></li>
+                        <li><a href="/temperos" itemprop="url" title="Temperos">Temperos</a></li>
+                        <li><a href="/vinagres" itemprop="url" title="Vinagres">Vinagres</a></li>
+                        <li><a href="/Kits" itemprop="url" title="Kits">Kits</a></li>
+                        <li><a href="/acessorios" itemprop="url" title="Acessórios">Acessórios</a></li>
+                </ul>
+                </li>
+
+
+        </ul>
+        </li>
+
+        <li><a href="/vinagres" itemprop="url" title="Vinagres">Vinagres</a>
+        </li>
+
+        <li><a href="/sumo-de-limao" itemprop="url" title="Sumo de Limão">Sumo de Limão</a>
+
+        </li>
+
+        <li><a href="/molhos" itemprop="url" title="Molhos">Molhos</a>
+        <ul>
+                <li><a href="/molhos" itemprop="url" title="Para Todas as Ocasiões"><strong>Para Todas as Ocasiões</strong></a>
+                <ul>
+                        <li><a href="/molhos/molhos-condimentados" itemprop="url" title="Molhos Condimentados">Molhos Condimentados</a></li>
+                        <li><a href="/molhos/molhos-para-lanches" itemprop="url" title="Molhos para Lanches">Molhos para Lanches</a></li>
+                        <li><a href="/molhos/molhos-para-salada" itemprop="url" title=" Molhos para Salada"> Molhos para Salada</a></li>
+                        <li><a href="/molhos/molhos-premium" itemprop="url" title=" Molhos Premium"> Molhos Premium</a></li>
+                </ul>
+                </li>
+
+        </ul>
+        </li>
+
+        <li><a href="/conservas" itemprop="url" title="Conservas">Conservas</a>
+        <ul>
+                <li><a href="/conservas" itemprop="url" title="Sabor e Praticidade"><strong>Sabor e Praticidade</strong></a>
+                <ul>
+                        <li><a href="/conservas/alcaparra" itemprop="url" title="Alcaparras">Alcaparras</a></li>  
+                        <li><a href="/conservas/azeitonas" itemprop="url" title="Azeitonas">Azeitonas</a></li>    
+                        <li><a href="/conservas/cebolinha" itemprop="url" title="Cebolinha">Cebolinha</a></li>
+                        <li><a href="/conservas/champignon" itemprop="url" title="Champignon">Champignon</a></li> 
+                        <li><a href="/conservas/palmitos" itemprop="url" title="Palmitos">Palmitos</a></li>
+                        <li><a href="/conservas/pepino" itemprop="url" title="Pepino">Pepino</a></li>
+                        <li><a href="/conservas/picles" itemprop="url" title="Picles">Picles</a></li>
+                        <li><a href="/conservas/pimenta-biquinho" itemprop="url" title="Pimenta Biquinho">Pimenta 
+Biquinho</a></li>
+                </ul>
+        </ul>
+        </li>
+
+        <li><a href="/azeites-e-oleo" itemprop="url" title="Azeites">Azeites</a>
+
+        </li>
+
+        <li><a href="/pates-pimenta" itemprop="url" title="Patês">Patês</a>
+
+        </li>
+
+        <li><a href="/temperos" itemprop="url" title="Temperos">Temperos</a>
+
+        </li>
+
+        <li><a href="/kits" itemprop="url" title="Kits">Kits</a>
+                </li>
+
+        <li style="background: #2B3876;border-radius: 200px;">
+        <p class="qd_am_text">Promoção</p>
+
+        <ul>
+                <li><strong>Melhores Ofertas</strong>
+
+                <ul>
+                        <li><a href="/vinagres/vinagre-natural" itemprop="url" title="Vinagres Naturais">Vinagres 
+Naturais</a></li>
+                        <li><a href="/azeites-e-oleo" itemprop="url" title="Azeites">Azeites</a>
+                        <li><a href="/kits" itemprop="url" title="Kits">Kits</a>
+                </li>
+                </ul>
+                </li>
+        </ul>
+        </li>
+        </li>
+        <li style="background-color: transparent!important;"><a href="https://blog.casteloalimentos.com.br/" itemprop="url" title="Blog" target="_blank" style="color:#95D732!important;">Blog</a></li>
+</ul><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome v2 não foi renderizado por nao ser um XDocument válido, erro: - The 'li' start tag on line 45 position 4 does not match the end tag of 'ul'. Line 56, position 4.--></div></div></div></div></div><!-- Amazing menu desktop --></div><!-- Amazing menu mobile --><div class="component-qd-v1-sidemeu-right qd_side_menu_right"><div class="header-qd-v1-user-action-login"><div class="header-qd-v1-user-message"><script>
+                                    $(document).ready(function () {
+                                        vtexid.setScope('eeeae167-eeae-479a-bbf1-dd4cb199a628');
+                                        vtexid.setScopeName('t76496');
+                                        $('body').on('click', '#login', function () {
+                                            vtexid.start(
+                                                    {
+                                                        returnUrl: '/',
+                                                        userEmail: '',
+                                                        locale: 'pt-BR',
+                                                        forceReload: false
+                                                    });
+                                        });
+                                    });
+                                   </script><div class="ajax-content-loader" rel="/no-cache/user/welcome"></div></div></div><div class="header-qd-v1-amazing-menu-mobile"><div class="row"><div class="col-xs-12"><nav><ul itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+        <li><a href="" itemprop="url" title="Todas as Categorias">Todas as Categorias</a>
+        <ul>
+                <li><strong>Tipos</strong>
+                <ul>
+                        <li><a href="/azeites-e-oleo" itemprop="url" title="Azeites e Óleo">Azeites e Óleo</a></li>
+                        <li><a href="/conservas" itemprop="url" title="Conservas">Conservas</a></li>
+                        <li><a href="/molhos" itemprop="url" title="Molhos">Molhos</a></li>
+                        <li><a href="/pates-pimenta" itemprop="url" title="Patês">Patês</a></li>
+                        <li><a href="/sumo-de-limao" itemprop="url" title="Sumo de Limão">Sumo de Limão</a></li>
+                        <li><a href="/temperos" itemprop="url" title="Temperos">Temperos</a></li>
+                        <li><a href="/vinagres" itemprop="url" title="Vinagres">Vinagres</a></li>
+                        <li><a href="/Kits" itemprop="url" title="Kits">Kits</a></li>
+                        <li><a href="/acessorios" itemprop="url" title="Acessórios">Acessórios</a></li>
+                </ul>
+                </li>
+
+
+
+        </ul>
+        </li>
+
+        <li><a href="/vinagres" itemprop="url" title="Vinagres">Vinagres</a>
+
+        </li>
+
+        <li><a href="/sumo-de-limao" itemprop="url" title="Sumo de Limão">Sumo de Limão</a>
+
+        </li>
+
+        <li><a href="/molhos" itemprop="url" title="Molhos">Molhos</a>
+        <ul>
+                <li><a href="/molhos" itemprop="url" title="Para Todas as Ocasiões"><strong>Para Todas as Ocasiões</strong></a>
+                <ul>
+                        <li><a href="/molhos/molhos-condimentados" itemprop="url" title="Molhos Condimentados">Molhos Condimentados</a></li>
+                        <li><a href="/molhos/molhos-para-lanches" itemprop="url" title="Molhos para Lanches">Molhos para Lanches</a></li>
+                        <li><a href="/molhos/molhos-para-salada" itemprop="url" title=" Molhos para Salada"> Molhos para Salada</a></li>
+                        <li><a href="/molhos/molhos-premium" itemprop="url" title=" Molhos Premium"> Molhos Premium</a></li>
+                </ul>
+                </li>
+
+        </ul>
+        </li>
+        <li><a href="/conservas" itemprop="url" title="Conservas">Conservas</a>
+        <ul>
+                <li><a href="/conservas" itemprop="url" title="Sabor e Praticidade"><strong>Sabor e Praticidade</strong></a>
+                <ul>
+                        <li><a href="/conservas/alcaparra" itemprop="url" title="Alcaparras">Alcaparras</a></li>  
+                        <li><a href="/conservas/azeitonas" itemprop="url" title="Azeitonas">Azeitonas</a></li>    
+                        <li><a href="/conservas/cebolinha" itemprop="url" title="Cebolinha">Cebolinha</a></li>    
+                        <li><a href="/conservas/champignon" itemprop="url" title="Champignon">Champignon</a></li> 
+                        <li><a href="/conservas/palmitos" itemprop="url" title="Palmitos">Palmitos</a></li>       
+                        <li><a href="/conservas/pepino" itemprop="url" title="Pepino">Pepino</a></li>
+                        <li><a href="/conservas/picles" itemprop="url" title="Picles">Picles</a></li>
+                        <li><a href="/conservas/pimenta-biquinho" itemprop="url" title="Pimenta Biquinho">Pimenta 
+Biquinho</a></li>
+                </ul>
+        </ul>
+
+        </li>
+
+
+        <li><a href="/azeites-e-oleo" itemprop="url" title="Azeites">Azeites</a>
+
+        </li>
+
+
+        <li><a href="/pates-pimenta" itemprop="url" title="Patês">Patês</a>
+
+        </li>
+
+
+        <li><a href="/temperos" itemprop="url" title="Temperos">Temperos</a>
+        </li>
+
+
+
+        <li><a href="/kits" itemprop="url" title="Kits">Kits</a>
+
+        </li>
+
+        <li>
+        <p class="qd_am_text">Promoção</p>
+
+        <ul>
+                <li><strong>Melhores Ofertas</strong>
+
+                <ul>
+                        <li><a href="/vinagres/vinagre-natural" itemprop="url" title="Vinagres Naturais">Vinagres 
+Naturais</a></li>
+                        <li><a href="/azeites-e-oleo" itemprop="url" title="Azeites">Azeites</a></li>
+                        <li><a href="/kits" itemprop="url" title="Kits">Kits</a></li>
+                </ul>
+                </li>
+        </ul>
+        </li>
+        <li><a href="https://blog.casteloalimentos.com.br/" itemprop="url" title="Blog" target="_blank" style="color:#95D732!important;">Blog</a></li>
+</ul><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome v2 não foi renderizado por nao ser um XDocument válido, erro: - The 'li' start tag on line 46 position 4 does not match the end tag of 'ul'. Line 57, position 4.--></nav><ul class="header-qd-v1-account-links"><li><a href="/account">Minha Conta</a></li><li><a href="/account#/orders">Meus Pedidos</a></li></ul><div class="topBarLogo"><!-- The tag <vtex.cmc:farTopBarLogos 
+xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" /> is unknown. --></div></div></div></div></div><!-- Amazing menu mobile --></header><div class="components-qd-v1-overlay modal-backdrop in"></div><!-- Header --><!-- Newsletter --><!-- <vtex:template id="mz-farmen-newsletter-v2" />--><style>
+a.bt-buscar-rodape.box-bt.btn-tertiary {    background-color: #2B3876; padding: 10px; border-radius: 3px;}
+.ajasucces {color: #2B3876;text-align: center;}
+</style>
+<div class="qd-v1-modal-newsletter modal fade">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-body">
+                <form novalidate="1">
+                    <div class="row">
+                        <div class="qd_news">
+                            <!-- side left -->
+                            <div class="col-xs-12 col-md-6 hidden-xs hidden-sm">
+                                <div class="row">
+                                    <div class="form-cover">
+                                        <p class="hidden">P</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end side left -->
+                            <!-- side right -->
+
+
+
+
+                            <div class="col-xs-12 col-md-6">
+
+
+
+                                <div class="form-content">
+
+
+                                                                <!--ANTIGO-->
+                                    <div class="form-text"><img alt=""
+                                            src="//t76496.vteximg.com.br/arquivos/newsletter-mail-icon.png?v=637510691250430000" />
+                                        <p class="form-text-content">Bem Vindo à CASTELO ALIMENTOS</p>
+
+                                        <h3 class="form-title">Receba em Primeira mão</h3>
+                                        <b>desconto e ofertas exclusivas</b>
+                                    </div>
+
+                                   <!-- <div class="form-row"><input class="qd_news_email email form-control required"
+                                            id="qd_email" name="qd_email" placeholder="Digite seu e-mail" type="text" />
+                                    </div>-->
+
+                                   <!-- <div class="qd_news_button-group">
+                                        <ul>
+                                            <li><button class="qd_news_button" name="qd_genero" type="submit"
+                                                    value="Enviar">Enviar</button>
+                                            </li>
+                                        </ul>
+                                    </div>-->
+                                                                <!--END ANTIGO-->
+
+
+
+                                                                        <!--NOVO-->
+<div class="form-row">
+                                                                        <div class="box_news">
+                                       <fieldset class="box_newsletter">
+                                          <label class="lbl_news email_news">
+                                             <input name="Rodape1$newsletter_txtEmail" type="text" id="Rodape1_newsletter_txtEmail" placeholder="E-mail" />
+                                          </label>
+                                          <condicao:sexo></condicao:sexo>
+                                          <condicao:nascimento></condicao:nascimento>
+                                        <a href="javascript:__doPostBack('btnOknewsletter','');" class="bt-buscar-rodape box-bt btn-tertiary">Enviar</a>
+                                      </fieldset>
+                                     <span id="Rodape1_newsletter"></span>
+                                    </div> </div>
+                                                                        <!--END NOVO-->
+
+
+
+
+                                </div>
+
+
+
+
+
+                            </div>
+
+
+
+
+
+                            <!-- end side right -->
+                        </div>
+                        <!-- success -->
+
+                        <div class="qd_news qd_news_success">
+                            <div class="col-xs-12 col-md-6">
+                                <div class="row">
+                                    <div class="form-cover">
+                                        <p class="hidden">P</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xs-12 col-md-6">
+                                <div class="form-content">
+                                    <div class="form-logo">
+                                        <p class="hidden">P</p>
+                                    </div>
+
+                                    <div class="form-text"><img alt=""
+                                            src="//t76496.vteximg.com.br/arquivos/newsletter-mail-icon.png?v=637510691250430000" />
+                                        <h3 class="form-title"><b>Yeah! :</b></h3>
+
+                                        <p class="form-text-content">Em breve, você receberá em seu e-mail.</p>   
+                                    </div>
+                                    <button class="qd_news_button" data-dismiss="modal" type="button">FECHAR</button>
+                                </div>
+                            </div>
+                            <!--  end success -->
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome news não foi renderizado por nao ser um XDocument válido, erro: - 'condicao' is an undeclared prefix. Line 64, position 44.--><!-- Newsletter 
+--><main><div class="common-qd-v1-structure"><!-- Slider full --><section><div class="slider-qd-v1-full slider-qd-v1-full-desktop"><div class="box-banner"><a><img width="1920" height="480" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155782/Banner-desktop (1).png?v=637825006825200000" alt="banner promoção" src="https://t76496.vteximg.com.br/arquivos/ids/155782/Banner-desktop (1).png?v=637825006825200000" complete="complete"/></a></div><div class="box-banner"><a href="/vinagres"><img width="1920" height="480" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155544/Banner_Topo_Vinagre.png?v=637692055242230000" alt="Banner Vinagre" src="https://t76496.vteximg.com.br/arquivos/ids/155544/Banner_Topo_Vinagre.png?v=637692055242230000" complete="complete"/></a></div><div class="box-banner"><a 
+href="/molhos/molhos-para-salada"><img width="1920" height="480" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155728/Banner_Topo_Salada.png?v=637692061505270000" alt="banner molhos para salada" src="https://t76496.vteximg.com.br/arquivos/ids/155728/Banner_Topo_Salada.png?v=637692061505270000" complete="complete"/></a></div><div class="box-banner"><a href="/vinagres/vinagre-balsamico"><img width="1920" height="480" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155729/Banner_Topo_Balsamicos.png?v=637692063077170000" alt="Banner Balsamico" src="https://t76496.vteximg.com.br/arquivos/ids/155729/Banner_Topo_Balsamicos.png?v=637692063077170000" complete="complete"/></a></div><div class="box-banner"><a href="/sumo-de-limao"><img width="1920" height="480" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155594/Banner_Topo_Sumo.png?v=637692063953230000" alt="Banner Sumo" src="https://t76496.vteximg.com.br/arquivos/ids/155594/Banner_Topo_Sumo.png?v=637692063953230000" complete="complete"/></a></div></div><div class="slider-qd-v1-full slider-qd-v1-full-mobile"><div class="box-banner"><a><img width="360" height="393" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155783/Banner-mobile (1).png?v=637825007178470000" alt="banner promoção" src="https://t76496.vteximg.com.br/arquivos/ids/155783/Banner-mobile (1).png?v=637825007178470000" complete="complete"/></a></div><div class="box-banner"><a href="/vinagres"><img width="360" height="393" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155730/Banner_Topo_Mobile_Vinagre.png?v=637692066951800000" alt="Banner Vinagre" src="https://t76496.vteximg.com.br/arquivos/ids/155730/Banner_Topo_Mobile_Vinagre.png?v=637692066951800000" complete="complete"/></a></div><div class="box-banner"><a href="/molhos/molhos-para-salada"><img width="360" height="393" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155731/Banner_Topo_Mobile_Salada.png?v=637692068214330000" alt="Banner Molhos para Salada" src="https://t76496.vteximg.com.br/arquivos/ids/155731/Banner_Topo_Mobile_Salada.png?v=637692068214330000" complete="complete"/></a></div><div class="box-banner"><a href="/vinagres/vinagre-balsamico"><img width="360" height="393" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155732/Banner_Topo_Mobile_Balsamicos.png?v=637692069052030000" alt="Banner Balsâmicos" src="https://t76496.vteximg.com.br/arquivos/ids/155732/Banner_Topo_Mobile_Balsamicos.png?v=637692069052030000" complete="complete"/></a></div><div class="box-banner"><a href="/sumo-de-limao"><img width="360" height="393" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155733/Banner_Topo_Mobile_Sumo.png?v=637692069863700000" alt="Banner Sumo" src="https://t76496.vteximg.com.br/arquivos/ids/155733/Banner_Topo_Mobile_Sumo.png?v=637692069863700000" complete="complete"/></a></div></div></section><!-- Slider full --><!-- Tip bar --><section><div class="tip-bar-qd-v1-full tip-bar-qd-v1-home"><div class="container"><div class="row"><div class="tip-bar-qd-v1-carousel">
+  <ul>
+    <li>
+      <a href="/Institucional/politica-entrega">
+        <img src="/arquivos/icone-mapa-tipbar.png?v=637557508158230000" />
+      </a>
+      <ul>
+        <li>
+          <a href="/Institucional/politica-entrega">A Castelo vai até você</a>
+        </li>
+        <li>
+          <a href="/Institucional/politica-entrega">Entrega para todo o Brasil</a>
+        </li>
+      </ul>
+      <a href="/Institucional/politica-entrega"></a>
+    </li>
+    <li>
+      <a href="/Institucional/politica-de-privacidade">
+        <img src="/arquivos/tipbar-cadeado.png?v=637557517963830000" />
+      </a>
+      <ul>
+        <li>
+          <a href="/Institucional/politica-de-privacidade">Site Seguro</a>
+        </li>
+        <li>
+          <a href="/Institucional/politica-de-privacidade">116 anos de confiança</a>
+        </li>
+      </ul>
+      <a href="/Institucional/politica-de-privacidade"></a>
+    </li>
+    <li>
+      <a href="/Institucional/politica-entrega">
+        <img src="/arquivos/icon-truck.png?v=637510693960730000" />
+      </a>
+      <ul>
+        <li>
+          <a href="/Institucional/politica-entrega">Frete Grátis</a>
+        </li>
+        <li>
+          <a href="/Institucional/politica-entrega">Confira as regras</a>
+        </li>
+      </ul>
+      <a href="/Institucional/politica-entrega"></a>
+    </li>
+    <li>
+      <a href="/Institucional/encontre-representante">
+        <img src="/arquivos/tipbar-vendedor-icone.png?v=637557518118070000" />
+      </a>
+      <ul>
+        <li>
+          <a href="/Institucional/encontre-representante">Representante Comercial</a>
+        </li>
+        <li>
+          <a href="/Institucional/encontre-representante">Encontre o vendedor da sua região</a>
+        </li>
+      </ul>
+      <a href="/Institucional/encontre-representante"></a>
+    </li>
+  </ul>
+</div></div></div></div></section><!-- Tip bar --><div class="container"><!-- Categorias de destaque --><section><div class="row"><div class="col-xs-12"><div class="categories-qd-v1-responsive img-responsive"><h2>Categorias mais procuradas</h2><div class="box-banner"><a href="/vinagres/vinagre-balsamico"><img width="132" height="156" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155558/Banner_Categorias_Balsâmicos.png?v=637574826131030000" alt="banner" src="https://t76496.vteximg.com.br/arquivos/ids/155558/Banner_Categorias_Balsâmicos.png?v=637574826131030000" complete="complete"/></a></div><div class="box-banner"><a href="/molhos/molhos-para-salada"><img width="132" height="156" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155559/Banner_Categorias_Molhos.png?v=637574826223500000" alt="banner" src="https://t76496.vteximg.com.br/arquivos/ids/155559/Banner_Categorias_Molhos.png?v=637574826223500000" complete="complete"/></a></div><div class="box-banner"><a href="/vinagres/vinagre-pet-750ml"><img width="132" 
+height="156" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155565/Banner_Categorias_VinagrePet.png?v=637574826970800000" alt="banner" src="https://t76496.vteximg.com.br/arquivos/ids/155565/Banner_Categorias_VinagrePet.png?v=637574826970800000" complete="complete"/></a></div><div class="box-banner"><a href="vinagres/vinagre-natural"><img width="132" height="156" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155563/Banner_Categorias_VinagreNatural.png?v=637574826779900000" alt="banner" src="https://t76496.vteximg.com.br/arquivos/ids/155563/Banner_Categorias_VinagreNatural.png?v=637574826779900000" complete="complete"/></a></div><div class="box-banner"><a href="azeites-e-oleo"><img width="132" height="156" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155557/Banner_Categorias_Azeites.png?v=637574825983270000" alt="banner" src="https://t76496.vteximg.com.br/arquivos/ids/155557/Banner_Categorias_Azeites.png?v=637574825983270000" complete="complete"/></a></div><div class="box-banner"><a href="/conservas/palmitos"><img width="132" height="156" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155590/Banner_Categorias_Palmitos (1).png?v=637577431645270000" alt="banner" src="https://t76496.vteximg.com.br/arquivos/ids/155590/Banner_Categorias_Palmitos (1).png?v=637577431645270000" complete="complete"/></a></div><div class="box-banner"><a href="vinagres/vinagre-organico"><img width="132" height="156" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155564/Banner_Categorias_VinagreOrgânico.png?v=637574826877600000" alt="banner" src="https://t76496.vteximg.com.br/arquivos/ids/155564/Banner_Categorias_VinagreOrgânico.png?v=637574826877600000" complete="complete"/></a></div></div></div></div></section><!-- Categorias de destaque --><!-- Banners de destaque --><section><div class="row"><div class="col-xs-12"><div class="banner-qd-v1-responsive mosaic-qd-v1-wrapper img-responsive qd-shelf-xs-12 qd-shelf-sm-3"><div class="box-banner"><a href="vinagres/vinagre-organico"><img width="433" height="537" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155726/Banner3_Orgânicos.png?v=637659478508330000" alt="banner organicos" src="https://t76496.vteximg.com.br/arquivos/ids/155726/Banner3_Orgânicos.png?v=637659478508330000" complete="complete"/></a></div><div class="box-banner"><a href="conservas/palmitos"><img width="433" height="537" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155722/Banner3_Palmitos.png?v=637659475010030000" alt="banner palmitos" src="https://t76496.vteximg.com.br/arquivos/ids/155722/Banner3_Palmitos.png?v=637659475010030000" complete="complete"/></a></div><div class="box-banner"><a href="vinagres/temperos-de-vinagre"><img width="433" height="537" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155727/Banner3_Temperode-Vinagre.png?v=637659478754900000" alt="banner temperos de vinagre" src="https://t76496.vteximg.com.br/arquivos/ids/155727/Banner3_Temperode-Vinagre.png?v=637659478754900000" complete="complete"/></a></div></div></div></div></section><!-- Banners de destaque --><!-- Vitrine de Lançamentos --><section><div class="row"><div class="col-xs-12"><div class="banner-qd-v1-responsive carousel-qd-v1-shelf mosaic-qd-v1-wrapper img-responsive qd-shelf-xs-12 qd-shelf-sm-6 qd-shelf-md-3"><div class="prateleira row n1colunas"><h2>Lançamentos</h2> 
+<ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="vinagres last">
+
+<input type="hidden" value="R$ 13,40" class="qd_productPrice" />
+<input type="hidden" value="R$ 13,40" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/vinagre-balsamico-organico-castelo-250ml/p" />
+<input type="hidden" class="qd_cpProdId" value="105" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/vinagre-balsamico-organico-castelo-250ml/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/vinagre-balsamico-organico-castelo-250ml/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/vinagre-balsamico-organico-castelo-250ml/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155760-220-220/Vinagre-Balsamico-Organico.jpg?v=637739788138730000" width="220" height="220" alt="VinagreBalsamicoOrganicoCastelo250ml" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/vinagre-balsamico-organico-castelo-250ml/p" title="Vinagre Bals&#226;mico Org&#226;nico Castelo 250ml">Vinagre Balsâmico Orgânico Castelo 250ml</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 13,40</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic105" maxlength="3" id="amount-in-cart105" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba105"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="105" class="buy-button-asynchronous-product-id"><input type="hidden" value="105" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-105"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=105&qty=1&seller=1&sc=1&price=1340&cv=47823588893C39E2AF10340C0E55E205_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod105">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-105" /><div class="buy-button-asynchronous message-user105"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_105" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="vinagres last">
+
+<input type="hidden" value="R$ 12,08" class="qd_productPrice" />
+<input type="hidden" value="R$ 12,08" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/vinagre-maca-organico-250ml/p" /><input type="hidden" class="qd_cpProdId" value="18" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/vinagre-maca-organico-250ml/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/vinagre-maca-organico-250ml/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">   
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/vinagre-maca-organico-250ml/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155449-220-220/macaorganico.jpg?v=637516768053400000" width="220" height="220" alt="Vinagre-de-Fruta-Maca-Organico-Castelo-Leve-Vita-250ml" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/vinagre-maca-organico-250ml/p" title="Vinagre de Ma&#231;&#227; Org&#226;nico Castelo Leve Vita 250ml">Vinagre de Maçã Orgânico Castelo Leve Vita 250ml</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">   
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 12,08</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />  
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic18" maxlength="3" id="amount-in-cart18" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba18"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="18" class="buy-button-asynchronous-product-id"><input type="hidden" value="18" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-18"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=18&qty=1&seller=1&sc=1&price=1208&cv=2A2E1A1BFDEA6B3D6ECC0411CC5AFD9E_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod18">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-18" /><div class="buy-button-asynchronous message-user18"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_18" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="vinagres last">
+
+<input type="hidden" value="R$ 10,24" class="qd_productPrice" />
+<input type="hidden" value="R$ 10,24" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/vinagre-vinho-tinto-organico-250ml/p" />
+<input type="hidden" class="qd_cpProdId" value="19" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/vinagre-vinho-tinto-organico-250ml/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/vinagre-vinho-tinto-organico-250ml/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">   
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/vinagre-vinho-tinto-organico-250ml/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155450-220-220/tintoorganico.jpg?v=637516768060600000" width="220" height="220" alt="Vinagre-de-Vinho-Tinto-Organico-Castelo-Leve-Vita-250ml" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/vinagre-vinho-tinto-organico-250ml/p" title="Vinagre de Vinho Tinto Org&#226;nico Castelo Leve Vita 250ml">Vinagre de Vinho Tinto Orgânico Castelo Leve Vita 250ml</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">   
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 10,24</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />  
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic19" maxlength="3" id="amount-in-cart19" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba19"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="19" class="buy-button-asynchronous-product-id"><input type="hidden" value="19" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-19"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=19&qty=1&seller=1&sc=1&price=1024&cv=E4974EE8A853611B5FABD3884C22019F_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod19">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-19" /><div class="buy-button-asynchronous message-user19"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_19" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="molhos last">
+
+<input type="hidden" value="R$ 10,30" class="qd_productPrice" />
+<input type="hidden" value="R$ 10,30" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/mostarda-gourmet-manga-habanero-240g/p" />
+<input type="hidden" class="qd_cpProdId" value="103" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/mostarda-gourmet-manga-habanero-240g/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/mostarda-gourmet-manga-habanero-240g/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">   
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/mostarda-gourmet-manga-habanero-240g/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155752-220-220/Mostarda_Gourmet_Manga_Habanero.jpg?v=637734410572700000" width="220" height="220" alt="MostardaGourmetMangaHabaneroCastelo240g" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/mostarda-gourmet-manga-habanero-240g/p" title="Mostarda Gourmet com Manga e Habanero Castelo 240g">Mostarda Gourmet com Manga e Habanero Castelo 240g</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">   
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 10,30</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />  
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic103" maxlength="3" id="amount-in-cart103" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba103"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="103" class="buy-button-asynchronous-product-id"><input type="hidden" value="103" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-103"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=103&qty=1&seller=1&sc=1&price=1030&cv=0A80F3A9CE96888B7F5396C7B8150596_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod103">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-103" /><div class="buy-button-asynchronous message-user103"></div></div>      
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_103" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="pates-pimenta last">
+
+<input type="hidden" value="R$ 8,30" class="qd_productPrice" />
+<input type="hidden" value="R$ 8,30" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/pate-pimenta-biquinho-habanero-alho-230g/p" />
+<input type="hidden" class="qd_cpProdId" value="96" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/pate-pimenta-biquinho-habanero-alho-230g/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/pate-pimenta-biquinho-habanero-alho-230g/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/pate-pimenta-biquinho-habanero-alho-230g/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155667-220-220/mkp_pate_habanero_alho_2020.png?v=637596268583530000" width="220" height="220" alt="Pate-de-Pimenta-Biquinho-com-Habanero-e-Alho-Castelo-230g" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/pate-pimenta-biquinho-habanero-alho-230g/p" title="Pat&#234; de Pimenta Biquinho com Habanero e Alho Castelo 230g">Patê de Pimenta Biquinho com Habanero e Alho Castelo 230g</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">   
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 8,30</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />  
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic96" maxlength="3" id="amount-in-cart96" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba96"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="96" class="buy-button-asynchronous-product-id"><input type="hidden" value="96" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-96"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=96&qty=1&seller=1&sc=1&price=830&cv=A5D1E570AFC1EFF1DB07DFCF647F40A0_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod96">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-96" /><div class="buy-button-asynchronous message-user96"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_96" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="vinagres last">
+
+<input type="hidden" value="R$ 16,15" class="qd_productPrice" />
+<input type="hidden" value="R$ 16,15" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/vinagre-maca-mel-natural-500ml/p" />
+<input type="hidden" class="qd_cpProdId" value="16" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/vinagre-maca-mel-natural-500ml/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/vinagre-maca-mel-natural-500ml/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">   
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/vinagre-maca-mel-natural-500ml/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155459-220-220/macamelnatural.jpg?v=637539033230900000" width="220" height="220" alt="Vinagre-Fruta-Maca-Com-Suco-de-Maca-e-Mel-100--Natural-Castelo-Leve-Vita-500-ml" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/vinagre-maca-mel-natural-500ml/p" title="Vinagre de Ma&#231;&#227; com Suco de Ma&#231;&#227; e Mel 100% Natural Castelo 500 ml">Vinagre de Maçã com Suco de Maçã e Mel 100% Natural Castelo 500 ml</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 16,15</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />  
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic16" maxlength="3" id="amount-in-cart16" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba16"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="16" class="buy-button-asynchronous-product-id"><input type="hidden" value="16" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-16"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=16&qty=1&seller=1&sc=1&price=1615&cv=5F3C55FC3D0C7CA3F9E4609D92592964_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod16">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-16" /><div class="buy-button-asynchronous message-user16"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_16" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="vinagres last">
+
+<input type="hidden" value="R$ 15,00" class="qd_productPrice" />
+<input type="hidden" value="R$ 15,00" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/vinagre-vinho-tinto-suco-uva-natural-500ml/p" />
+<input type="hidden" class="qd_cpProdId" value="17" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/vinagre-vinho-tinto-suco-uva-natural-500ml/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/vinagre-i 
+nho-tinto-suco-uva-natural-500ml/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">   
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/vinagre-vinho-tinto-suco-uva-natural-500ml/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155448-220-220/vinhotintonatural.jpg?v=637516768046370000" width="220" height="220" alt="Vinagre-Vinho-Tinto-com-Suco-de-Uva-100--Natural-Castelo-Leve-Vita-500ml" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/vinagre-vinho-tinto-suco-uva-natural-500ml/p" title="Vinagre de Vinho Tinto com Suco de Uva 100% Natural Castelo 500ml">Vinagre de Vinho Tinto com Suco de Uva 100% Natural Castelo 500ml</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">   
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 15,00</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />  
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic17" maxlength="3" id="amount-in-cart17" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba17"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="17" class="buy-button-asynchronous-product-id"><input type="hidden" value="17" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-17"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=17&qty=1&seller=1&sc=1&price=1500&cv=494F545E95DE20FE5848B5FA5426E87D_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod17">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-17" /><div class="buy-button-asynchronous message-user17"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_17" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="conservas last">
+
+<input type="hidden" value="R$ 12,88" class="qd_productPrice" />
+<input type="hidden" value="R$ 12,88" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/palmito-pupunha-banda-300g/p" />
+<input type="hidden" class="qd_cpProdId" value="71" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/palmito-pupunha-banda-300g/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/palmito-pupunha-banda-300g/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/palmito-pupunha-banda-300g/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155579-220-220/palmito_pupunha_banda.jpg?v=637575617791030000" width="220" height="220" alt="Palmito-Pupunha-Banda-Castelo-300g" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/palmito-pupunha-banda-300g/p" title="Palmito Pupunha Banda Castelo 300g">Palmito Pupunha Banda Castelo 300g</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">   
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 12,88</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic71" maxlength="3" id="amount-in-cart71" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba71"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="71" class="buy-button-asynchronous-product-id"><input type="hidden" value="71" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-71"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=71&qty=1&seller=1&sc=1&price=1288&cv=37C9F784A0EDB64D07D089A95DA0DE31_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod71">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-71" /><div class="buy-button-asynchronous message-user71"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_71" style="display:none" class="helperComplement"></li></ul></div></div></div></div></section><!-- Vitrine de Lançamentos --><!-- Banners de Categorias --><section><div class="row"><div class="col-xs-12"><div class="banner-qd-v1-responsive mosaic-qd-v1-wrapper img-responsive qd-shelf-xs-12 qd-shelf-sm-3"><div class="box-banner"><a href="molhos/molhos-para-lanches"><img width="657" height="471" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155721/Banner4_MolhosLanche.png?v=637659474478770000" alt="banner molhos para lanches" src="https://t76496.vteximg.com.br/arquivos/ids/155721/Banner4_MolhosLanche.png?v=637659474478770000" complete="complete"/></a></div><div class="box-banner"><a href="pates-pimenta"><img width="657" height="471" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155723/Banner4_Patês.png?v=637659475408030000" alt="banner patês" src="https://t76496.vteximg.com.br/arquivos/ids/155723/Banner4_Patês.png?v=637659475408030000" complete="complete"/></a></div></div></div><div class="col-xs-12"><div class="banner-qd-v1-responsive mosaic-qd-v1-wrapper img-responsive qd-shelf-xs-12 qd-shelf-sm-3"><div class="box-banner"><a href="molhos/molhos-premium"><img width="657" height="471" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155724/Banner4_MolhosPremium.png?v=637659475896470000" alt="banner molhos premium" src="https://t76496.vteximg.com.br/arquivos/ids/155724/Banner4_MolhosPremium.png?v=637659475896470000" complete="complete"/></a></div><div class="box-banner"><a href="conservas"><img width="657" height="471" id="ihttps://t76496.vteximg.com.br/arquivos/ids/155725/Banner4_Conservas.png?v=637659476392430000" alt="banner conservas" src="https://t76496.vteximg.com.br/arquivos/ids/155725/Banner4_Conservas.png?v=637659476392430000" complete="complete"/></a></div></div></div></div></section><!-- Banners de Categorias --><!-- Ultima vitrine --><section><div class="row"><div class="col-xs-12"><div class="banner-qd-v1-responsive carousel-qd-v1-shelf mosaic-qd-v1-wrapper img-responsive qd-shelf-xs-12 qd-shelf-sm-6 qd-shelf-md-3"><div class="prateleira row n1colunas"><h2>Mais Vendidos</h2>
+<ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="vinagres last">
+
+<input type="hidden" value="R$ 13,27" class="qd_productPrice" />
+<input type="hidden" value="R$ 13,27" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/creme-balsamico-tradicional-230ml/p" />
+<input type="hidden" class="qd_cpProdId" value="25" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/creme-balsamico-tradicional-230ml/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/creme-balsamico-tradicional-230ml/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">   
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/creme-balsamico-tradicional-230ml/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155461-220-220/Cremebalsamico.jpg?v=637539051406130000" width="220" height="220" alt="Creme-de-Balsamico-Tradicional-Castelo-230ml" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/creme-balsamico-tradicional-230ml/p" title="Creme de Bals&#226;mico Tradicional Castelo 230ml">Creme de Balsâmico Tradicional Castelo 230ml</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">   
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 13,27</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />  
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic25" maxlength="3" id="amount-in-cart25" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba25"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="25" class="buy-button-asynchronous-product-id"><input type="hidden" value="25" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-25"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=25&qty=1&seller=1&sc=1&price=1327&cv=204B6663CCE1682755E5B0A38C72BA0F_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod25">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-25" /><div class="buy-button-asynchronous message-user25"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_25" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="vinagres last">
+
+<input type="hidden" value="R$ 14,37" class="qd_productPrice" />
+<input type="hidden" value="R$ 14,37" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/vinagre-balsamico-tradizionale-500ml/p" />
+<input type="hidden" class="qd_cpProdId" value="20" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/vinagre-balsamico-tradizionale-500ml/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/vinagre-balsamico-tradizionale-500ml/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/vinagre-balsamico-tradizionale-500ml/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155455-220-220/balsamico500.jpg?v=637539033204300000" width="220" height="220" alt="Vinagre-Balsamico-Tradizionale-Castelo-500ml" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/vinagre-balsamico-tradizionale-500ml/p" title="Vinagre Bals&#226;mico Tradizionale Castelo 500ml">Vinagre Balsâmico Tradizionale Castelo 500ml</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">   
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 14,37</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />  
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic20" maxlength="3" id="amount-in-cart20" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba20"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="20" class="buy-button-asynchronous-product-id"><input type="hidden" value="20" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-20"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=20&qty=1&seller=1&sc=1&price=1437&cv=D03A68F1B7EA1EE83AD5C2AD76E11425_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod20">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-20" /><div class="buy-button-asynchronous message-user20"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_20" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="vinagres last">
+
+<input type="hidden" value="R$ 16,15" class="qd_productPrice" />
+<input type="hidden" value="R$ 16,15" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/vinagre-maca-mel-natural-500ml/p" />
+<input type="hidden" class="qd_cpProdId" value="16" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/vinagre-maca-mel-natural-500ml/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/vinagre-maca-mel-natural-500ml/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">   
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/vinagre-maca-mel-natural-500ml/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155459-220-220/macamelnatural.jpg?v=637539033230900000" width="220" height="220" alt="Vinagre-Fruta-Maca-Com-Suco-de-Maca-e-Mel-100--Natural-Castelo-Leve-Vita-500-ml" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/vinagre-maca-mel-natural-500ml/p" title="Vinagre de Ma&#231;&#227; com Suco de Ma&#231;&#227; e Mel 100% Natural Castelo 500 ml">Vinagre de Maçã com Suco de Maçã e Mel 100% Natural Castelo 500 ml</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">   
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 16,15</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />  
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic16" maxlength="3" id="amount-in-cart16" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba16"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="16" class="buy-button-asynchronous-product-id"><input type="hidden" value="16" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-16"><span class="add"><a href="https://www.casteloalimentos.cm 
+.br/checkout/cart/add?sku=16&qty=1&seller=1&sc=1&price=1615&cv=5F3C55FC3D0C7CA3F9E4609D92592964_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod16">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-16" /><div class="buy-button-asynchronous message-user16"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_16" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="sumo-limao last">
+
+<input type="hidden" value="R$ 7,47" class="qd_productPrice" />
+<input type="hidden" value="R$ 7,47" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/sumo-limao-500ml/p" />
+<input type="hidden" class="qd_cpProdId" value="27" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/sumo-limao-500ml/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/sumo-limao-500ml/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/sumo-limao-500ml/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155687-220-220/sumo.png?v=637604967510830000" width="220" height="220" alt="Sumo-de-Limao-Castelo-500-ml" id="" />     
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/sumo-limao-500ml/p" title="Sumo de Lim&#227;o Castelo 500 ml">Sumo de Limão Castelo 500 ml</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">   
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 7,47</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />  
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic27" maxlength="3" id="amount-in-cart27" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba27"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="27" class="buy-button-asynchronous-product-id"><input type="hidden" value="27" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-27"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=27&qty=1&seller=1&sc=1&price=747&cv=27EC4C040A3C4941F9225AB94C464981_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod27">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-27" /><div class="buy-button-asynchronous message-user27"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_27" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="vinagres last">
+
+<input type="hidden" value="R$ 14,30" class="qd_productPrice" />
+<input type="hidden" value="R$ 14,30" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/creme-balsamico-framboesa-230ml/p" />
+<input type="hidden" class="qd_cpProdId" value="26" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/creme-balsamico-framboesa-230ml/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/creme-balsamico-framboesa-230ml/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">   
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/creme-balsamico-framboesa-230ml/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155462-220-220/Cremebalsamicoframboesa.jpg?v=637539051411300000" width="220" height="220" alt="Creme-de-Balsamico-com-Framboesa-230ml" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/creme-balsamico-framboesa-230ml/p" title="Creme de Bals&#226;mico com Framboesa 230ml">Creme de Balsâmico com Framboesa 230ml</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 14,30</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />  
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic26" maxlength="3" id="amount-in-cart26" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba26"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="26" class="buy-button-asynchronous-product-id"><input type="hidden" value="26" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-26"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=26&qty=1&seller=1&sc=1&price=1430&cv=48B1B309C919AB2DF0FD0A6E908A43A0_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod26">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-26" /><div class="buy-button-asynchronous message-user26"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_26" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="vinagres last">
+
+<input type="hidden" value="R$ 12,08" class="qd_productPrice" />
+<input type="hidden" value="R$ 12,08" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/vinagre-maca-organico-250ml/p" /><input type="hidden" class="qd_cpProdId" value="18" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/vinagre-maca-organico-250ml/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/vinagre-maca-organico-250ml/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">   
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/vinagre-maca-organico-250ml/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155449-220-220/macaorganico.jpg?v=637516768053400000" width="220" height="220" alt="Vinagre-de-Fruta-Maca-Organico-Castelo-Leve-Vita-250ml" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/vinagre-maca-organico-250ml/p" title="Vinagre de Ma&#231;&#227; Org&#226;nico Castelo Leve Vita 250ml">Vinagre de Maçã Orgânico Castelo Leve Vita 250ml</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">   
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 12,08</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />  
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic18" maxlength="3" id="amount-in-cart18" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba18"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="18" class="buy-button-asynchronous-product-id"><input type="hidden" value="18" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-18"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=18&qty=1&seller=1&sc=1&price=1208&cv=2A2E1A1BFDEA6B3D6ECC0411CC5AFD9E_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod18">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-18" /><div class="buy-button-asynchronous message-user18"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_18" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4cf 
+-e21a-4ac8-9919-15110f9f90ab" class="pates-pimenta last">
+
+<input type="hidden" value="R$ 8,30" class="qd_productPrice" />
+<input type="hidden" value="R$ 8,30" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/pate-pimenta-biquinho-levemente-picante-220g/p" />
+<input type="hidden" class="qd_cpProdId" value="60" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/pate-pimenta-biquinho-levemente-picante-220g/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/pate-pimenta-biquinho-levemente-picante-220g/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">   
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/pate-pimenta-biquinho-levemente-picante-220g/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155591-220-220/pate_pimenta_levemente_picante.jpg?v=637581661289230000" width="220" height="220" alt="Pate-de-Pimenta-Biquinho-Levemente-Picante-Castelo-300g" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/pate-pimenta-biquinho-levemente-picante-220g/p" title="Pat&#234; de Pimenta Biquinho Levemente Picante Castelo 220g">Patê de Pimenta Biquinho Levemente Picante Castelo 220g</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">   
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 8,30</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic60" maxlength="3" id="amount-in-cart60" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba60"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="60" class="buy-button-asynchronous-product-id"><input type="hidden" value="60" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-60"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=60&qty=1&seller=1&sc=1&price=830&cv=2773979CC51C711915E911014FF01A99_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod60">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-60" /><div class="buy-button-asynchronous message-user60"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_60" style="display:none" class="helperComplement"></li></ul><ul><li layout="becc4c9f-e21a-4ac8-9919-15110f9f90ab" class="molhos last">
+
+<input type="hidden" value="R$ 4,72" class="qd_productPrice" />
+<input type="hidden" value="R$ 4,72" class="qd_productOldPrice" />
+<input type="hidden" value="1" class="qd_sp_installments" />
+
+<!-- QD Cores Prateleira Padrão -->
+<input type="hidden" class="qd_cpUri" value="https://www.casteloalimentos.com.br/molho-para-salada-limao-236ml/p" 
+/>
+<input type="hidden" class="qd_cpProdId" value="44" />
+<!-- QD Cores Prateleira Padrão -->
+
+<div class="shelf-qd-v1  qd-product-is-in-stock-true ">
+        <div class="row">
+                <div class="col-xs-2">
+                        <div class="shelf-qd-v1-color">
+                                <!-- QD Cores Prateleira miniaturas -->
+                                <div class="qd-cpBox">
+                                        <span class="qd_cpViewMore qd_cpHide"><a href="https://www.casteloalimentos.com.br/molho-para-salada-limao-236ml/p" class="qd_cpProductLink">+</a></span>
+                                        <div class="qd_cpSkuList  qd_cpShow "></div>
+                                </div>
+                                <!-- QD Cores Prateleira miniaturas -->
+                        </div>
+                </div>
+
+                <div class="col-xs-8">
+                        <!-- Product image -->
+                        <!-- Flags -->
+                        <div class="row">
+                                <a class="shelf-qd-v1-stamps" href="https://www.casteloalimentos.com.br/molho-para-salada-limao-236ml/p">
+                                        <div
+                                                class="shelf-qd-v1-highlight-discount-percentage flag qdAuto0">
+                                                0</div>
+                                        <div class="shelf-qd-v1-highlight"></div>
+                                        <div class="shelf-qd-v1-highlight-discount"></div>
+                                </a>
+                        </div>
+                        <!-- Flags -->
+
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <div class="shelf-qd-v1-image">
+                                                <a class="shelf-qd-v1-image-link img-responsive" href="https://www.casteloalimentos.com.br/molho-para-salada-limao-236ml/p">
+                                                        <img src="https://t76496.vteximg.com.br/arquivos/ids/155475-220-220/molholimao.jpg?v=637539066468000000" width="220" height="220" alt="Molho-para-Salada-Limao-Castelo-236ml" id="" />
+
+
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- Product image -->
+                </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                        <!-- Product content -->
+                        <div class="row">
+                                <div class="col-xs-12">
+                                        <h3 class="shelf-qd-v1-name">
+                                                <a href="https://www.casteloalimentos.com.br/molho-para-salada-limao-236ml/p" title="Molho para Salada Lim&#227;o Castelo 236ml">Molho para Salada Limão Castelo 236ml</a>
+                                        </h3>
+                                </div>
+
+                                <div class="col-xs-12">
+                                                                                <div class="shelf-qd-v1-price">   
+
+                                                <p class="shelf-qd-v1-price-best-price">R$ 4,72</p>
+
+                                                                                        </div>
+                                                                        </div>
+
+                                                                <div class="col-xs-6 qtt-col">
+                                        <div class="shelf-qd-v1-smart-quantity-wrapper">
+                                                <a class="qd-sq-minus">-</a>
+                                                <a class="shelf-qd-v1-qty">
+                                                        <input type="tel" class="qd-sq-quantity form-control" />  
+                                                </a>
+                                                <a class="qd-sq-more">+</a>
+                                        </div>
+                                </div>
+                                <div class="col-xs-6 btn-col">
+                                        <div class="shelf-qd-v1-buy-button shelf-qd-v1-buy-button">
+                                                <div class="shelf-qd-v1-item-aumont" style="display:none"><input type="hidden" class="amount-max-in-cart" value="30"><input type="hidden" class="amount-max-in-cart-message" value="Desculpe, mas só é possível comprar até #quantidade# unidades do item #produto# no momento."><input type="text" size="3" class="amount-in-cart aic44" maxlength="3" id="amount-in-cart44" value="1"></div>
+                                                <div class="wrapper-buy-button-asynchronous bba44"><input type="hidden" value="Produto incluído no carrinho" class="buy-button-asynchronous-product-message-success"><input type="hidden" value="Produto não incluído no carrinho" class="buy-button-asynchronous-product-message-fail"><input type="hidden" value="44" class="buy-button-asynchronous-product-id"><input type="hidden" value="44" class="buy-button-asynchronous-defaultsku-id"><input type="hidden" value="/../no-cache/CarrinhoAdd.aspx?idSku=[idSku]&quantidade=[quantidade]" class="buy-button-asynchronous-product-url-44"><span class="add"><a href="https://www.casteloalimentos.com.br/checkout/cart/add?sku=44&qty=1&seller=1&sc=1&price=472&cv=19A2E1C6EF03E6CE1701643776777819_&sc=1" class="btn-add-buy-button-asynchronous remove-href btn-not-clicked asynchronousBuyButton actionActivated vtexsm_activated .btover-active" style="cursor:pointer" id="idprod44">Comprar</a></span><input type="hidden" value="cart" class="buy-button-asynchronous-go-to-cart-44" /><div class="buy-button-asynchronous message-user44"></div></div>
+                                        </div>
+                                </div>
+                                                        </div>
+                        <!-- Product content -->
+
+                </div>
+        </div>
+</div>
+</li><li id="helperComplement_44" style="display:none" class="helperComplement"></li></ul></div></div></div></div></section><!-- Ultima vitrine --></div></div></main><!-- Footer --><footer><div class="footer-qd-v1"><!-- Footer Newsletter --><div class="footer-qd-v1-newsletter-social qd_news_auto"><div class="container"><div class="row"><ul 
+class="col-xs-12 col-md-7"><li class="footer-qd-v1-newsletter-title">
+                                                        Mantenha-se atualizado!
+                                                </li><li>
+                                                        Receba nossa ofertas e novidades em primeira mão
+                                                </li></ul><div class="col-xs-12 col-md-5"><div class="footer-qd-v1-newsletter-form box_newsletter"><style>
+.footer-qd-v1-newsletter-form a.bt-buscar-rodape.box-bt.btn-tertiary { background-color: transparent;padding:10px;border-radius: 3px; color: #2B3876;right: 54px;position: absolute; font-weight: bold;font-size: 15px;}
+.footer-qd-v1-newsletter-social .ajasucces {color: #fff!important;text-align: center;margin-top: -7px!important;} 
+.footer-qd-v1-newsletter-form a.bt-buscar-rodape.box-bt.btn-tertiary:before {content: "\f124"; display: inline-block; font-size: 1em; font-style: normal; font-weight: normal; height: 1em; text-align: center; text-decoration: inherit; text-rendering: optimizelegibility; width: 1em;
+    font-family: 'FontAwesome';
+    transition: all .2s ease-out;
+    position: relative;
+    top: -7px;
+    margin-right: 10px;
+    font-size: 23px;
+    vertical-align: middle;
+}
+
+.footer-qd-v1-newsletter-social .footer-qd-v1-newsletter-form {
+    position: relative;
+    margin-top: -5px!important;}
+
+</style>
+<input class="col-md-6 qd_news_email input-type-text" name="Rodape1$newsletter_txtEmail" type="text" id="Rodape1_newsletter_txtEmail" placeholder="Digite seu e-mail..." />
+<condicao:sexo></condicao:sexo>
+<condicao:nascimento></condicao:nascimento>
+<a href="javascript:__doPostBack('btnOknewsletter','');"class="bt-buscar-rodape box-bt btn-tertiary">Enviar</a>   
+<span id="Rodape1_newsletter"></span><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome newsletterodape não foi renderizado por nao ser um XDocument válido, erro: - 'condicao' is an undeclared prefix. Line 20, position 2.--><!--<input class="col-md-6 qd_news_email input-type-text" placeholder="Digite seu e-mail..." type="text" name="email" />--><!--  <input class="col-md-6 qd_news_email input-type-text" name="Rodape1$newsletter_txtEmail" type="text" id="Rodape1_newsletter_txtEmail" placeholder="Digite seu e-mail..." />--><!--        <input class="qd_news_animate_field_success" value="Obrigado!" type="hidden" />--><!--<a class="qd_news_button" type="button">Enviar</a>--><!--     <a href="javascript:__doPostBack('btnOknewsletter','');" class="qd_news_button bt-buscar-rodape box-bt btn-tertiary">Enviar</a>--><!--    <span id="Rodape1_newsletter"></span>--></div></div></div></div></div><!-- Footer Newsletter --><!-- Footer content --><div class="footer-qd-v1-content"><div class="container"><div class="row"><!-- Footer logo --><div class="col-xs-12 col-md-8"><a class="footer-qd-v1-logo" href="/"><img src="/arquivos/logo-casteloalimentos.png?v=637510693541970000" alt="Castelo Alimentos" /></a></div><!-- Footer logo --><!-- Social networks links --><div class="col-xs-12 col-md-4"><div class="footer-qd-v1-social-networks"><p>Siga nossas redes sociais:</p><ul><li><a href="https://www.facebook.com/CasteloAlimentosVidaLeve" target="_blank" 
+title="Facebook"><i class="fa fa-facebook"></i></a></li><li><a href="https://www.instagram.com/casteloalimentos/" 
+rel="noopener" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li><li><a href="https://www.youtube.com/channel/UCiVazVEyo1hDYQ61bL0Tksw" rel="noopener" target="_blank" title="YouTube"><i class="fa fa-youtube-play"></i></a></li><li><a href="https://www.linkedin.com/company/casteloalimentos" rel="noopener" target="_blank" title="LinkedIn"><i class="fa fa-linkedin-square"></i></a></li><li><a href="https://www.tiktok.com/@casteloalimentos" rel="noopener" target="_blank" title="TikTok"><svg width="17" height="19" viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M16.375 7.63281V4.57422C16.3398 4.57422 16.3398 4.57422 16.3398 4.57422C15.4961 4.57422 14.6875 4.32812 14.0195 3.87109C13.0352 3.23828 12.332 2.21875 12.1211 1.05859C12.0508 0.8125 12.0508 0.566406 12.0508 0.320312C12.0508 0.285156 12.0508 0.285156 12.0508 0.25H8.95703V12.5547C8.95703 13.9961 7.76172 15.1914 6.32031 15.1914C4.87891 15.1914 3.68359 13.9961 3.68359 12.5547C3.68359 11.1133 4.87891 9.91797 6.32031 9.91797C6.60156 9.91797 6.84766 9.95312 7.12891 10.0586V6.89453C6.84766 6.85938 6.60156 6.82422 6.32031 6.82422C3.15625 6.82422 0.625 9.39062 0.625 12.5547C0.625 15.7188 3.15625 18.25 6.32031 18.25C9.48438 18.25 12.0508 15.7188 12.0508 12.5547V6.26172C13.2461 7.14062 14.7227 7.63281 16.3398 7.63281H16.375Z" fill="white" /></svg></a></li></ul></div></div><!-- Social networks links --></div><div class="row"><!-- Institutional Menu --><div class="col-xs-12 col-md-9"><div class="footer-qd-v1-menu-list"><ul itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+        <li>
+        <p class="qd_am_text">Funcionamento Loja de Fábrica</p>
+
+        <ul>
+                <li>
+                <p>Segunda à sexta, das 8h30 às 17h45</p>
+                </li>
+                <li>
+                <p>Sábados, das 8h30 às 15h45</p>
+                </li>
+                <li>
+                <p>Fone: (11) 4589-7110</p>
+                </li>
+                <li>
+                <p>Av. Prof.ª Maria do Carmo Guimarães<br> Pellegrini, 480 - Retiro, Jundiaí - SP</p>
+                </li>
+        </ul>
+
+
+        </li>
+        <li>
+        <p class="qd_am_text">Institucional</p>
+
+        <ul>
+                <li><a href="/Institucional/quem-somos" itemprop="url" title="Sobre nós">Sobre nós</a></li>       
+                <li><a href="/Institucional/responsabilidade-social" itemprop="url" title="Responsabilidade Social">Responsabilidade Social </a></li>
+                <li><a href="/Institucional/encontre-representante" itemprop="url" title="Encontre um Representante">Encontre um Representante</a></li>
+                <li><a href="/Institucional/politica-entrega" itemprop="url" title="Frete Grátis- Consulte Condições">Frete Grátis- Consulte Condições</a></li>
+                <li><a href="/Institucional/politica-pagamento" itemprop="url" title="Formas de Pagamento">Formas 
+de Pagamento</a></li>
+                <li><a href="/Institucional/trabalhe-na-castelo" itemprop="url" title="Trabalhe na Castelo">Trabalhe na Castelo</a></li>
+                <li><a href="/Institucional/perguntas-frequentes" itemprop="url" title="Dúvidas Frequentes">Dúvidas Frequentes </a></li>
+        </ul>
+        </li>
+        <li>
+        <p class="qd_am_text">Área do cliente</p>
+
+        <ul>
+                <li><a href="/_secure/Account#/orders" itemprop="url" title="Meus Pedidos">Meus Pedidos</a></li>
+                <li><a href="/_secure/Account#/profile" itemprop="url" title="Minha Conta">Minha Conta</a></li>   
+                <li><a href="/Institucional/politica-de-privacidade" itemprop="url" title="Política de Privacidade">Compra Segura</a></li>
+                <li><a href="/Institucional/fale-conosco" itemprop="url" title="Fale Conosco">Atendimento</a></li>        </ul>
+        </li>
+</ul><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome conteudo não foi renderizado 
+por nao ser um XDocument válido, erro: - The 'br' start tag on line 16 position 42 does not match the end tag of 'p'. Line 16, position 86.--></div></div><!-- Institutional Menu --><!-- Contact information --><div class="col-xs-12 col-md-3"><div class="footer-qd-v1-contact-information"><p>Fale Conosco</p><ul><li>Segunda à Quinta-feira 9h às 12h / 13 às 18h e
+Sexta-feira 9h às 12h / 13h às 17h<i class="fa fa-clock-o" aria-hidden="true"></i></li><li>0800 771 6111<i class="fa fa-phone"></i></li><li>lojavirtual@casteloalimentos.com.br<i class="fa fa-envelope" aria-hidden="true"></i></li></ul></div></div><!-- Contact information --></div></div></div><!-- Footer content --><!-- Footer stamps --><div 
+class="footer-qd-v1-stamps"><div class="container"><div class="row"><div class="col-xs-12 col-md-6"><p class="footer-qd-v1-stamps-title">Formas de Pagamento:</p><ul class="footer-qd-v1-payment-stamps"><li class="payment-stamp pull-left stamp-visa"></li><li class="payment-stamp pull-left stamp-master"></li><li class="payment-stamp pull-left 
+stamp-boleto"></li><li class="payment-stamp pull-left stamp-ame hide"></li><li class="payment-stamp pull-left stamp-diners hide"></li><li class="payment-stamp pull-left stamp-pagseguro"></li><li class="payment-stamp pull-left stamp-elo"></li><li class="payment-stamp pull-left stamp-amex"></li><li class="payment-stamp pull-left stamp-jcb"></li><li class="payment-stamp pull-left stamp-discover hide"></li><li class="payment-stamp pull-left stamp-hipercard"></li><li class="payment-stamp pull-left stamp-two-card hide"></li><li class="payment-stamp pull-left stamp-bcash hide"></li><li class="payment-stamp pull-left stamp-mercadopago hide"></li><li class="payment-stamp pull-left stamp-bradesco hide"></li><li class="payment-stamp pull-left stamp-itau hide"></li><li class="payment-stamp pull-left stamp-brasil hide"></li><li class="payment-stamp pull-left stamp-paypal hide"></li></ul></div><div class="col-xs-12 col-md-6"><p class="footer-qd-v1-stamps-title">Parceiro:</p><ul class="footer-qd-v1-security-stamps"><li><a href="#" target="_blank"><img src="/arquivos/selo_abrinq_100.png?v=637575437220970000" alt="Selo abrinq" class="img-responsive" /></a></li></ul></div><div class="col-xs-12 col-md-6"><p class="footer-qd-v1-stamps-title">Segurança:</p><ul class="footer-qd-v1-security-stamps"><li><a href="http://secure.vtex.com/?an=casteloalimentos" target="_blank"><img src="/arquivos/selo-pci-vtex-qsb.png?v=637510691253500000" alt="Selo PCI" class="img-responsive" /></a></li><li><div id="ra-verified-seal"><script type="text/javascript" id="ra-embed-verified-seal" src="https://s3.amazonaws.com/raichu-beta/ra-verified/bundle.js" data-id="OTIxNTM6Y2FzdGVsby1hbGltZW50b3M=" data-target="ra-verified-seal" data-model="2"></script></div></li></ul></div></div></div></div><!-- Footer stamps --><!-- Footer extra information --><div class="footer-qd-v1-extra-info"><div class="container"><div class="row"><div class="col-xs-12"><p><!-- The tag <vtex.cmc:farLegalInformation xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" /> is unknown. 
+--></p></div><div class="col-xs-12"><div class="footer-qd-v1-company-stamps"><div class="company-legend"><span>Powered by</span><a class="company-logo poweredByVtex" href="http://www.vtex.com.br/" target="_blank" rel="nofollow"></a></div><div class="company-legend"><span>Developed by</span><a class="designedByMaeztra company-logo" href="http://www.maeztra.com.br" title="Implantadores Especialistas VTEX" target="_blank"></a></div></div></div></div></div></div><!-- Footer extra information --></div></footer><div class="qd-v1-modal fade" style="display: none;"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><span class="close" data-dismiss="modal"></span></div><div class="modal-body"></div><div class="modal-footer"></div></div></div></div><div class="modal-qd-v1-search fade"><div class="container"><div class="row"><div class="col-xs-12"><span class="modal-qd-v1-close" data-dismiss="modal">Fechar</span><div class="modal-qd-v1-search-wrap"><script type="text/javascript" language="javascript"> /*<![CDATA[*/ $(document).ready(function(){currentDept = '0'; enableFullTextSearchBox('ftBox5eab763fa41e4d4c836a31bd53c0af0c', 'ftDept5eab763fa41e4d4c836a31bd53c0af0c', 'ftIdx5eab763fa41e4d4c836a31bd53c0af0c', 'ftBtn5eab763fa41e4d4c836a31bd53c0af0c', '/SEARCHTERM','Digite Aqui' );}); /*]]>*/ </script><fieldset class="busca"><legend>Buscar</legend><label>Buscar</label><select id="ftDept5eab763fa41e4d4c836a31bd53c0af0c"><option value="">Todo o Site</option><option value="1">Vinagres</option><option value="11">Sumo de Limão</option><option value="12">Molhos</option><option value="13">Azeites e Óleo</option><option value="14">Temperos</option><option value="15">Conservas</option><option value="17">Patês Pimenta</option><option value="22">Acessórios</option><option value="35">Kits</option></select><input type="hidden" id=ftIdx5eab763fa41e4d4c836a31bd53c0af0c value="" /><input id="ftBox5eab763fa41e4d4c836a31bd53c0af0c" class="fulltext-search-box" type="text" size="20" accesskey="b" /><input id="ftBtn5eab763fa41e4d4c836a31bd53c0af0c" type="button" value="Buscar" class="btn-buscar" /></fieldset><p class="modal-qd-v1-search-instruction">Pressione "Enter" para procurar</p></div></div></div></div></div><ul class="fixed-buttons-qd-v1"><li><a class="header-qd-v1-amazing-menu-trigger" href="/busca"><i class="fa fa-bars"></i></a></li><li><a class="header-qd-v1-action-search" href="/busca"><i class="fa fa-search" aria-hidden="true"></i></a></li><li><a class="header-qd-v1-cart-link qd_cart_auto" href="/checkout"><i class="fa fa-shopping-cart"></i><span class="header-qd-v1-cart-link-info"><span class="qd_cart_total"></span><span class="qd_cart_qtt">--</span></span></a></li></ul><!-- Footer --><!-- Newsletter --><!-- Newsletter --><script language="javascript" src="https://t76496.vteximg.com.br/scripts/track.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/thickbox.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/json2.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/vtex.viewpart.callcenterdisclaimer.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/vtex.viewpart.ajaxloader_v2.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/social/vtex-view-part.js?v=1.5.47.2456"  
+ type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/vtex.commerce.batchbuy.js?v=1.5.47.2456" 
+  type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/vtex.jsevents.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/vtex.skuevents.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/vtex.skuevents.skudatafetcher.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/jquery.livequery.min.js?v=1.5.47.2456"   
+type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/prettyphoto/js/jquery.prettyphoto.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/prettyphoto/js/lean-prettyphoto.js?v=1.5.47.2456"   type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/vtex.commerce.compare.js?v=1.5.47.2456"  
+ type="text/javascript"></script>
+<script language="javascript" src="https://t76496.vteximg.com.br/scripts/mobile/vtex.make.mobile.pager.js?v=1.5.47.2456"   type="text/javascript"></script>
+</body>
+</html>
