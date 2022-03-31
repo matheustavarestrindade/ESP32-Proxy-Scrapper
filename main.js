@@ -26,6 +26,6 @@ app.post("/", (req, res) => {
     res.status(200).send();
 });
 
-server.listen(80, () => {
-    console.log("listening on *:80");
+server.listen(3000, () => {
+    console.log("listening on *:3000");
 });
