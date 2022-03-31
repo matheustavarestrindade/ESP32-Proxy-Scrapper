@@ -8,7 +8,6 @@ app.use(express.json());
 
 app.get("/", (req, res) => {
     if (!sent) {
-        console.log("Sent");
         res.json({
             request_url: "www.casteloalimentos.com.br",
             https: true,
@@ -17,9 +16,15 @@ app.get("/", (req, res) => {
         sent = true;
         return;
     }
-    res.status(200).send("OK");
+    res.status(200).json({
+        ok: true,
+    });
 });
 
+app.get("/reset", (req, res) => {
+    sent = false;
+    res.status(200).send("RESETD");
+});
 app.post("/", (req, res) => {
     console.log(req.body);
     console.log(req.headers);
