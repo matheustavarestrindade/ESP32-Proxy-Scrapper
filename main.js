@@ -26,6 +26,6 @@ app.post("/", (req, res) => {
     res.status(200).send();
 });
 
-server.listen(3000, () => {
-    console.log("listening on *:3000");
+server.listen(process.env.PORT || 5000, () => {
+    console.log("listening on *:" + (process.env.PORT || 5000));
 });
