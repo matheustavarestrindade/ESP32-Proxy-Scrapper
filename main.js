@@ -3,7 +3,7 @@ import http from "http";
 const app = express();
 let sent = false;
 const server = http.createServer(app);
-const logs = [];
+let logs = [];
 
 app.use(express.json());
 
@@ -24,6 +24,7 @@ app.get("/", (req, res) => {
 
 app.get("/reset", (req, res) => {
     sent = false;
+    logs = [];
     res.status(200).send("RESETD");
 });
 app.get("/info", (req, res) => {
