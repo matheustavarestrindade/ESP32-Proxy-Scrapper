@@ -3,6 +3,7 @@ import http from "http";
 const app = express();
 let sent = false;
 const server = http.createServer(app);
+const logs = [];
 
 app.use(express.json());
 
@@ -26,9 +27,8 @@ app.get("/reset", (req, res) => {
     res.status(200).send("RESETD");
 });
 app.post("/", (req, res) => {
-    console.log(req.body);
-    console.log(req.headers);
-    res.status(200).send();
+    logs.push(req.body);
+    res.status(200).send("OK");
 });
 
 server.listen(process.env.PORT || 5000, () => {
