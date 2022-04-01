@@ -26,6 +26,9 @@ app.get("/reset", (req, res) => {
     sent = false;
     res.status(200).send("RESETD");
 });
+app.get("/info", (req, res) => {
+    res.status(200).json(logs);
+});
 app.post("/", (req, res) => {
     logs.push(req.body);
     res.status(200).send("OK");
